@@ -13,7 +13,7 @@ As a matter of fact, the new requirements brought by 5G, IoT, Cloud, AI as well 
 
 The progress of IPv6 can be showed looking at the percentage of networks (Autonomous Systems) that announce one or more IPv6 prefixes in the RIPE NCC service region:
 
-![](img/IPE_graphic.png)
+![](/img/IPE_graphic.png)
 
 Between 2014 and 2020, ETSI established IP6 to sustain the global deployment of IPv6 and, as described in the recently published [ETSI White Paper 35](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_WP35_IPv6_Best_Practices_Benefits_Transition_Challenges_and_the_Way_Forward.pdf), the deployment of IPv6 provides the strong base for all the new technologies and new services evolution.
 
