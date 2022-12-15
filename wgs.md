@@ -7,6 +7,6 @@ background: '/img/bg-contact.jpg'
 
 <center>
 
-# **Coming soon**
+<h1><b>Coming soon</b></h1>
 
 </center>
