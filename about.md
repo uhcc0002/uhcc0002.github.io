@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Our Role & Activities
-description: This is what we do.
+title: Our Mission
+description: This is what we do
 background: '/img/bg-about.jpg'
 ---
 
