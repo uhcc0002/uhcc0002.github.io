@@ -5,4 +5,4 @@ description: Other resources
 background: '/img/bg-contact.jpg'
 ---
 
-List of intesreting resources:
+List of interesting resources:
