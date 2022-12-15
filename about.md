@@ -5,7 +5,7 @@ description: This is what we do.
 background: '/img/bg-about.jpg'
 ---
 
-The overall scope of ETSI ISG IPE is to accelerate the adoption of IPv6 by more users, terminals, networks and contents enabling IPv6 to connect everything. This will in turn foster IPv6-based innovations.
+**The overall scope of ETSI ISG IPE is to accelerate the adoption of IPv6 by more users, terminals, networks and contents enabling IPv6 to connect everything. This will in turn foster IPv6-based innovations.**
 
 The progress of 5G connectivity, Industrial IoT, Artificial Intelligence and the pervasive use of Hybrid-Multi-Cloud services involves the following areas that will be initially considered:
 
