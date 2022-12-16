@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Working Groups
-description: Areas of Interest
+description: Our Areas of Interest
 background: '/img/bg-contact.jpg'
 ---
 
