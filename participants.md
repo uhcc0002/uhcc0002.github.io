@@ -36,7 +36,7 @@ background: '/img/bg-contact.jpg'
 |Verizon UK Ltd	|www.verizonwireless.com/|
 |ZTE Corporation	|www.zte.com.cn|
 
-
+---
 
 |Participants                            |URL                                                          |
 |----------------------------------------|-------------------------------------------------------------|
