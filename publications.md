@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-description: Here we will publish the IP related publications
+description: Here we will publish IPE publications & reports
 background: '/img/bg-contact.jpg'
 ---
 
