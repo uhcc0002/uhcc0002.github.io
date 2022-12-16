@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Specifications
-description: Related standards
+title: Publications
+description: Here we will publish the IP related publications
 background: '/img/bg-contact.jpg'
 ---
 
