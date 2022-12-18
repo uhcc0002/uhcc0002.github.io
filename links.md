@@ -5,7 +5,7 @@ description: Other resources
 background: '/img/bg-contact.jpg'
 ---
 
-List of interesting resources:
+<b>List of interesting resources:</b>
 
 -[IPv6 Forum](https://www.ipv6forum.com/)
 
