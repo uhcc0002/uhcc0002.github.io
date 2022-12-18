@@ -2,7 +2,7 @@ title:              IPv6 Innovations (6Innov) Council
 email:              your-email@example.com
 description:        Introduction
 author:             IPv6 Forum
-baseurl:            "/ipe"
+baseurl:            "/ipe/"
 url:                "https://uhcc0002.github.io"
 
 # Social Profiles
