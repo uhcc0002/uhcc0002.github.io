@@ -9,7 +9,7 @@ In this context, all the statistics show that IPv6 is growing constantly and fas
 
 On the other hand, networking field is in constant evolution and all the new use cases and scenarios were not mature or even did not exist when IPv6 was introduced. For this reason, IPv6 started its massive introduction recently and keeps evolving to prepare for the future and meet the new challenges as they arise.
 
-As a matter of fact, the new requirements brought by 5G, IoT, Cloud, AI as well as governments and standard bodies are all calling for full IPv6 adoption.
+IPv6 evolution needs make have been tackled with the creation of IPE (IPv6 Enhanced Innovation) in 2021 as an ETSI ISG under the guidance of IPv6forum, expanding the scope of the previous ISG IP6 to the more advanced IETF-defined functionalities. After two years of work, the IPE working group see the participation of 100+ players and published industry reports. The first report analysed the gap of the current IPv6 in relation to the major industry scenarios. Following reports analysed the identified scenarios (e.g., 5G, Cloud integration, Industrial Internet), defining the best practices, guidelines and testing methodologies. The next step will be fully supported by IPv6 forum, in continuity with the previous phases. More reports will be delivered and PoC activities will be carried on to validate the technology with direct involvement of the major Industry Players with the scope to accelerate the IPv6 transition to support digital transformation and fair market competition.
 
 The progress of IPv6 can be showed looking at the percentage of networks (Autonomous Systems) that announce one or more IPv6 prefixes in the RIPE NCC service region:
 
@@ -17,8 +17,4 @@ The progress of IPv6 can be showed looking at the percentage of networks (Autono
   <img style="max-width:100%" src="./img/IPE_graphic.png">
 </p>
 
-Between 2014 and 2020, ETSI established IP6 to sustain the global deployment of IPv6 and, as described in the recently published [ETSI White Paper 35](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_WP35_IPv6_Best_Practices_Benefits_Transition_Challenges_and_the_Way_Forward.pdf), the deployment of IPv6 provides the strong base for all the new technologies and new services evolution.
-
-Given this background and driven by the emerging technologies, ETSI Industry Specification Group (ISG) IPv6 Enhanced Innovations (IPE) aims to evolve the IP6 work further on, promoting the deployment of IPv6 according to an IPv6 network end-to-end reference architecture and defining clear guidelines to address large-scale IPv6 deployments. 
-
-The ETSI ISG IPE opens the door to new opportunities for industry players by applying IPv6 technology to various scenarios and end-to-end solutions, in order to enable a new era of IPv6-based services and networks.
+IPv6 Forum IPE opens the door to new opportunities for industry players by applying IPv6 technology to various scenarios and end-to-end solutions, in order to enable a new era of IPv6-based services and networks. IPE will close the loop among the IP Industry players, each of which will benefit from this alignment: SDOs (IETF) will concentrate effort in delivering missing specifications, Manufacturer will implement functionalities of value on the market and Operators/Vertical Industries will be able to properly underpin Digital Transformation in a simpler way with straight forward and cost effective technologies.
