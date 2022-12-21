@@ -24,7 +24,6 @@ background: '/img/bg-contact.jpg'
 
 ### IPv6 Forum's IPE Council PoC Review Team
 - Latif Ladid, Chair, ISG IPE
-- Louise Clark, Support Officer, ISG IPE
 - Tayeb Ben Meriem, IPv6 Forum
 - Thomas Graf, Swisscom
 - Pietro Cassarà, CNR
