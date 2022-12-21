@@ -581,9 +581,7 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   </td>
   <td width=174 rowspan=7 style='width:130.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
-  <p class=MsoNormal><b>IPv6
-  Ready Logo: IoT & 6TiSCH</b></p>
+   <p class=MsoNormal><b>IPv6 Ready Logo: IoT & 6TiSCH</b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
