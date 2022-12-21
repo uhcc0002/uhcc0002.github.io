@@ -8,10 +8,10 @@ background: '/img/bg-contact.jpg'
 # IPv6 Forum IPE Council Proof of Concept (PoC)
 ---
 ### IPv6 Forum's IPE Council PoC Topics
-- ### Rationale
-- ### IPv6 Forum’s IPE Council potential PoC Topics list
-- ### Addressing a PoC Topics in a PoC Project
-- ### Feeding back the PoC result
+- **Rationale**
+- **IPv6 Forum’s IPE Council potential PoC Topics list**
+- **Addressing a PoC Topics in a PoC Project**
+- **Feeding back the PoC result**
 
 ### IPv6 Forum's ongoing IPE Council PoCs
 - SRv6 based 5G Non Terrestrial Network to provide services with granted SLA, CNR Italy, Sky
