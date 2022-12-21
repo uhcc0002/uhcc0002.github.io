@@ -29,7 +29,6 @@ As soon as experimental results relevant for a given IPE Council PoC Topic are a
 
 As described in the IPE Council PoC Framework, a PoC Team proposal shall address at least one goal relevant to IPv6 Forum's IPE Council i.e. related with an IPE Council Use Cases, an IPE Council Requirements or the suitability of an IPE Council System Architecture aspect. The output of the PoC should provide feedback to the IPv6 Forum's IPE Council that should support the improvement of the output of the existing IPE Council WIs or the creation of new WIs to address identified gaps or new topics deemed of high interest to the Industry. Alignment with existing activities is required. See table below. 
 
-
 <table class=MsoNormalTable border=1 cellspacing=3 cellpadding=0
  style='mso-cellspacing:1.5pt;border:solid windowtext 1.0pt;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-border-insideh:.5pt solid windowtext;
@@ -38,29 +37,24 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   <td colspan=3 style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
   background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
   51;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal align=center style='text-align:center'><b><span
-  lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6 Forum’s IPE Council <span
-  class=SpellE>PoC</span> Topics candidates list <o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b>IPv6 Forum’s IPE Council PoC Topics candidates list</b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
   <td style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
   background:#DEEAF6;mso-background-themecolor:accent5;mso-background-themetint:
   51;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span class=SpellE><b><span lang=FR>Level</span></b></span><b><span
-  lang=FR> 1<o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b>Level 1 </b></p>
   </td>
   <td width=174 style='width:130.15pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#DEEAF6;mso-background-themecolor:accent5;
   mso-background-themetint:51;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><b><span
-  lang=FR>Level</span></b></span><b><span lang=FR> 2 <o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b>Level 2 </b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#DEEAF6;mso-background-themecolor:accent5;
   mso-background-themetint:51;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><b><span
-  lang=FR>Level</span></b></span><b><span lang=FR> 3<o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b>Level 3 </b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
@@ -76,37 +70,37 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Business
-  and Technical Case for IPv6 Only<o:p></o:p></span></p>
+  <p class=MsoNormal>Business
+  and Technical Case for IPv6 Only</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=FR>Size&nbsp;: Enterprise SOHO, Enterprise SMB,
-  Enterprise Large<o:p></o:p></span></p>
+  <p class=MsoNormal>Size: Enterprise SOHO, Enterprise SMB,
+  Enterprise Large</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Function:
+  <p class=MsoNormal>Function:
   Governments, Service Provider, Carrier, Managed Service Provider, Cloud /
-  Datacentre<o:p></o:p></span></p>
+  Datacentre</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Transition
-  to IPv6 Only – Program &amp; Project Management, Inventory, Gap Analysis<o:p></o:p></span></p>
+  <p class=MsoNormal>Transition
+  to IPv6 Only – Program &amp; Project Management, Inventory, Gap Analysis</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Transition
-  to IPv6 Only – System, Address &amp; Network Designs, <o:p></o:p></span></p>
+  <p class=MsoNormal>Transition
+  to IPv6 Only – System, Address &amp; Network Designs,</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>
@@ -119,26 +113,19 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:8'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Deployment
-  Plans, Operations and Sustainment<o:p></o:p></span></p>
+  <p class=MsoNormal>Deployment
+  Plans, Operations and Sustainment</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9;height:39.65pt'>
   <td width=174 rowspan=5 style='width:130.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt;
   height:39.65pt'>
-  <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6-based
-  <span class=SpellE>DataBlockMatrix</span></span><span lang=FR><o:p></o:p></span></b></p>
+  <p class=MsoNormal><b>IPv6-based DataBlockMatrix</b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt;height:39.65pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB;
-  mso-bidi-font-weight:bold'>Food Supply Chain Tracking and Tracing</span><span
-  lang=EN-GB style='font-family:"Arial",sans-serif;mso-bidi-font-family:"Times New Roman";
-  mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
-  ZH-CN;mso-bidi-font-weight:bold'> </span><span lang=EN-GB style='mso-ansi-language:
-  EN-GB;mso-bidi-font-weight:bold'>Architecture</span><span lang=EN-GB
-  style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+  <p class=MsoNormal>Food Supply Chain Tracking and Tracing Architecture</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:10;height:39.65pt'>
@@ -171,21 +158,13 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:13;height:39.65pt'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt;height:39.65pt'>
-  <p class=MsoNormal><span lang=EN-GB style='font-family:"Arial",sans-serif;
-  mso-ansi-language:EN-GB'>Blockchain </span><span lang=EN-GB style='font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-fareast-language:ZH-CN'>vs</span><span
-  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'> </span><span
-  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
-  mso-fareast-language:ZH-CN'>Data Block Matrix in GPDR compliance</span><span
-  style='mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-font-weight:
-  bold'><o:p></o:p></span></p>
+  <p class=MsoNormal>Blockchain vs Data Block Matrix in GPDR compliance</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:14'>
   <td width=174 rowspan=5 style='width:130.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'>5G for
-  automated mobility</span><span lang=FR><o:p></o:p></span></b></p>
+  <p class=MsoNormal><b>5G for automated mobility</b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'></td>
@@ -193,8 +172,7 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:15'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>5G in
-  cross-border corridors<o:p></o:p></span></p>
+  <p class=MsoNormal>5G in cross-border corridors</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16'>
@@ -207,8 +185,7 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:17'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6 in
-  cross-border corridors<o:p></o:p></span></p>
+  <p class=MsoNormal>IPv6 in cross-border corridors</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:18'>
@@ -221,13 +198,11 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   <td width=174 rowspan=6 style='width:130.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt;
   height:32.25pt'>
-  <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'>SRv6
-  based service function chain<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b>SRv6 based service function chain</b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt;height:32.25pt'>
-  <p class=MsoNormal><span lang=FR>Smart services for <span class=SpellE>government</span>/<span
-  class=SpellE>enterprise</span> clients usage scenario<o:p></o:p></span></p>
+  <p class=MsoNormal>Smart services for government enterprise clients usage scenario</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:20'>
@@ -246,15 +221,13 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:22'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Development
-  practice of SRv6 based SFC in the operator network<o:p></o:p></span></p>
+  <p class=MsoNormal>Development practice of SRv6 based SFC in the operator network</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:23'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>SFC
-  scheduling of single-service in single-Cloud (SRv6-aware mode) ...<o:p></o:p></span></p>
+  <p class=MsoNormal>SFC scheduling of single-service in single-Cloud (SRv6-aware mode) ...</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:24'>
