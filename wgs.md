@@ -93,14 +93,14 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal>Transition
-  to IPv6 Only – Program &amp; Project Management, Inventory, Gap Analysis</p>
+  to IPv6 Only – Program &; Project Management, Inventory, Gap Analysis</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal>Transition
-  to IPv6 Only – System, Address &amp; Network Designs,</p>
+  to IPv6 Only – System, Address & Network Designs,</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>
@@ -293,20 +293,14 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  </tr>
  <tr style='mso-yfti-irow:32'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'><span lang=FR style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-  mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
-  minor-latin;font-weight:normal'>CGA <span class=SpellE>Specifictions</span><o:p></o:p></span>
+  solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal>CGA Specifictions</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:33'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <span class=SpellE><span lang=FR style='font-size:11.0pt;font-family:
-  "Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
-  minor-latin;mso-bidi-theme-font:minor-latin;font-weight:normal'>Cryptographic</span></span><span
-  lang=FR style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
-  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
-  font-weight:normal'> hash <span class=SpellE>functions</span><o:p></o:p></span>
+  <p class=MsoNormal>Cryptographic hash functions</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:34'>
@@ -589,7 +583,7 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
   <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   <p class=MsoNormal><b>IPv6
-  Ready Logo: IoT &amp; 6TiSCH</b></p>
+  Ready Logo: IoT & 6TiSCH</b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
