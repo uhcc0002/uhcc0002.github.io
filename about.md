@@ -2,7 +2,7 @@
 layout: page
 title: Our Mission
 description: This is what we do
-background: '/img/bg-about.jpg'
+background: './img/bg-about.jpg'
 ---
 
 The overall scope of IPv6 Forum's IPE Council is to accelerate the adoption of IPv6 by more users, terminals, networks and contents enabling IPv6 to connect everything. This will in turn foster IPv6-based innovations.

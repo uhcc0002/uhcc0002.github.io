@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 description: We will publish IPE publications & reports here
-background: '/img/bg-contact.jpg'
+background: './img/bg-contact.jpg'
 ---
 
 [ETSI GR IPE 006 V1.1.1 (2022-11)](https://www.etsi.org/deliver/etsi_gr/IPE/001_099/006/01.01.01_60/gr_IPE006v010101p.pdf)

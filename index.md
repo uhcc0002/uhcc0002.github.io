@@ -1,6 +1,6 @@
 ---
 layout: home
-background: '/img/bg-index.jpg'
+background: './img/bg-index.jpg'
 ---
 
 Nowadays all the new technology domains like 5G connectivity, Internet of Things (IoT), Cloud Computing, Artificial Intelligence (AI) are accelerating digitalization and many things that were previously not connected are getting connected. As more and more devices, vehicles, sensors and home appliances go online, enabling IP on everything becomes a vision and industry trend.
