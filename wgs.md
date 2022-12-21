@@ -35,81 +35,81 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr>
   <td colspan=3 style='border:solid windowtext 1.0pt;
   background:#D9E2F3;mso-background-themetint:
-  51;padding:.75pt .75pt .75pt .75pt'>
+  51;padding:5px'>
   <p align=center style='text-align:center'><b>IPv6 Forum’s IPE Council PoC Topics candidates list</b></p>
   </td>
  </tr>
  <tr>
   <td style='border:solid windowtext 1.0pt;
   background:#DEEAF6;mso-background-themetint:
-  51;padding:.75pt .75pt .75pt .75pt'>
+  51;padding:5px'>
   <p align=center style='text-align:center'><b>Level 1 </b></p>
   </td>
   <td width=174 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p align=center style='text-align:center'><b>Level 2 </b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p align=center style='text-align:center'><b>Level 3 </b></p>
   </td>
  </tr>
  <tr>
   <td rowspan=42 style='border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b><span lang=FR>Use Cases and</span></b></p>
   <p><b><span lang=FR>Applications</span></b></p>
   </td>
   <td width=174 rowspan=7 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b><span>IPv6 Only use
   cases and transition </span></b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Business
   and Technical Case for IPv6 Only</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Size: Enterprise SOHO, Enterprise SMB,
   Enterprise Large</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Function:
   Governments, Service Provider, Carrier, Managed Service Provider, Cloud /
   Datacentre</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Transition
   to IPv6 Only – Program &; Project Management, Inventory, Gap Analysis</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Transition
   to IPv6 Only – System, Address & Network Designs,</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Platforms, <span class=SpellE>Cybersecurity</span>
   &amp; Applications</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Deployment
   Plans, Operations and Sustainment</p>
   </td>
  </tr>
  <tr style='height:39.65pt'>
   <td width=174 rowspan=5 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;
+  padding:5px;
   height:39.65pt'>
   <p><b>IPv6-based DataBlockMatrix</b></p>
   </td>
@@ -148,35 +148,35 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  </tr>
  <tr>
   <td width=174 rowspan=5 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b>5G for automated mobility</b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'></td>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'></td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>5G in cross-border corridors</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span class=SpellE><span lang=FR>Tele-operated</span></span><span
   lang=FR> Driving</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>IPv6 in cross-border corridors</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>IPv6 Service <span class=SpellE>continuity</span></span></p>
   </td>
  </tr>
  <tr style='height:32.25pt'>
   <td width=174 rowspan=6 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;
+  padding:5px;
   height:32.25pt'>
   <p><b>SRv6 based service function chain</b></p>
   </td>
@@ -185,403 +185,403 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Smart
   services for home terminals usage scenario</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>SRv6-aware network firewall </span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Development practice of SRv6 based SFC in the operator network</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>SFC scheduling of single-service in single-Cloud (SRv6-aware mode) ...</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>SFC scheduling of multi-service in multi-Cloud (Hybrid mode).....</p>
   </td>
  </tr>
  <tr>
   <td width=174 rowspan=5 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b>IPv6-based
   Blockchain</b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>IPv6-based
   Blockchain: Overview and Requirements</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>IPv4-to-IPv4 transactions</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>IPv6-to-IPv6 transactions</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Scenario 1 - <span class=SpellE>Prepaid</span>
   <span class=SpellE>journeys</span></span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Scenario
   2 - Pay-as-you-go journeys.</p>
   </td>
  </tr>
  <tr>
   <td width=174 rowspan=4 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b><span>CGA for IPv6 Zero Trust</span></b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>CGA <span class=SpellE>address</span> <span
   class=SpellE>generation</span> <span class=SpellE>algorithm</span></span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Implementing Modern CGA for IPv6</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>CGA Specifictions</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Cryptographic hash functions</p>
   </td>
  </tr>
  <tr>
   <td width=174 rowspan=6 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b>IPv6 for Universities</b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Motivation
   to deploy IPv6 in Academia and LAN Design implications</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>IPv6
   Design change: Replace Broadcast with multicast</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span class=SpellE><span lang=FR>HEAnet</span></span><span
   lang=FR> <span class=SpellE>Context</span></span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>NREN ISP</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Dual-Stack WIFI</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>IPV6 <span class=SpellE>only</span> WIFI</span></p>
   </td>
  </tr>
  <tr>
   <td width=174 rowspan=4 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b>IP Transport with SRv6</b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>SRv6 Infrastructure for IP Transport</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Transport of IP Services</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Automating SRv6 Configuration through SDN</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>E2E SRv6 in Network and Cloud</p>
   </td>
  </tr>
  <tr>
   <td rowspan=24 style='border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b>Guide</b></p>
   </td>
   <td width=174 rowspan=10 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b><span>Datacenter and
   Cloud Integration</span></b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>General requirements to network-Cloud convergence</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>European digital sovereignty with GAIA-X and IDSA.</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Virtual private Cloud usage scenario</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Enterprise site to DCs usage scenario</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Inter-connection of Clouds usage scenario</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Data Centre network usage scenario</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Telecom Cloud network usage scenario</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>IPv6 for network-Cloud convergence (Benefit analysis)</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Hyper-converged Data Centre network benefits analysis with unified IPv6 architecture</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Network and Cloud management benefits</p>
   </td>
  </tr>
  <tr>
   <td width=174 rowspan=7 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b><span>Industrial Internet and Enterprise</span></b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p style='text-align:justify;text-justify:inter-ideograph'>Automotive (in vehicle, V2V, V2I)</p>
   <p style='text-align:justify;text-justify:inter-ideograph'>SmartGrid Applications</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Deploying IP networks in the factory</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>ZeroConf Scalable wireless access for IoT with minimized churn for IoT devices</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Deterministic networking for control loop and motion control</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Security vs. Safety (e.g. Recursive micro segmentation, ISA 99, Purdue Model vs.
   firewalling/VPN)</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Towards IPv6-only Enterprise / Factory</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Network Control and automation</span></p>
   </td>
  </tr>
  <tr>
   <td width=174 rowspan=7 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b>5G Transport over IPv6 and SRv6</b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Networking Pre-<span class=SpellE>Requisites</span></span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>IPv6/SRv6 Infrastructure for 5G Data Transportation.</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>5G and Cloud interactions</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>Requirements to the 5G transport network.</p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Cloud-network coordination <span
   class=SpellE>policies</span></span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Network Automation and SDN</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Synchronisation</span></p>
   </td>
  </tr>
  <tr>
   <td rowspan=4 style='border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b>Vision</b></p>
   </td>
   <td width=174 rowspan=4 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b><span>IPv6 Enhanced
   Innovation Analysis</span></b><b><span lang=FR style='font-size:12.0pt;
   line-height:107%'></span></b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>New <span class=SpellE>industry</span>
   challenges</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span class=SpellE><span lang=FR>Existing</span></span><span
   lang=FR> solutions and gaps</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Non-<span class=SpellE>technical</span> gaps</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p>IPv6 enhanced innovations for filling the gaps</p>
   </td>
  </tr>
  <tr>
   <td rowspan=14 style='border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b>Test &amp; Certification</b></p>
   </td>
   <td width=174 rowspan=7 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
    <p><b>IPv6 Ready Logo: IoT & 6TiSCH</b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Test <span class=SpellE>organization</span></span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Common test settings</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Common test <span class=SpellE>topology</span></span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Advanced <span class=SpellE>functionality</span>
   tests</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>IPv6 Test Cases</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>DHCPv6 Test Cases</span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>DNSv6 Test Cases</span></p>
   </td>
  </tr>
  <tr>
   <td width=174 rowspan=7 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt'>
+  padding:5px'>
   <p><b>Testing/Validation
   IPv6/SRv6 Networks</b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span class=SpellE><span lang=FR>Conformance</span></span><span
   lang=FR> <span class=SpellE>testing</span> </span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span class=SpellE><span lang=FR>Functional</span></span><span
   lang=FR> <span class=SpellE>Testing</span></span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span lang=FR>Non-<span class=SpellE>Functional</span> <span
   class=SpellE>Testing</span></span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span class=SpellE><span lang=FR>Integration</span></span><span
   lang=FR> <span class=SpellE>Testing</span></span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span class=SpellE><span lang=FR>Interoperability</span></span><span
   lang=FR> <span class=SpellE>Testing</span> </span></p>
   </td>
  </tr>
  <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;padding:5px'>
   <p><span class=SpellE><span lang=FR>Declarative</span></span><span
   lang=FR> <span class=SpellE>Testing</span></span></p>
   </td>
