@@ -103,33 +103,32 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   <p>Deployment Plans, Operations and Sustainment</p>
   </td>
  </tr>
- <tr style='height:39.65pt'>
+ <tr>
   <td width=174 rowspan=5 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;
-  height:39.65pt'>
+  padding:.75pt .75pt .75pt .75pt'>
   <p><b>IPv6-based DataBlockMatrix</b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;height:39.65pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
   <p>Food Supply Chain Tracking and Tracing Architecture</p>
   </td>
  </tr>
- <tr style='height:39.65pt'>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;height:39.65pt'>
+ <tr>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
   <p>Data Sovereignty Requirements</p>
   </td>
  </tr>
- <tr style='height:39.65pt'>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;height:39.65pt'>
+ <tr>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
   <p>Data Collection Pre-requisites, Data Storage Implementation</p>
   </td>
  </tr>
- <tr style='height:39.65pt'>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;height:39.65pt'>
+ <tr>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
   <p>Data Processing in Food Supply Chain Tracking and Tracing</p>
   </td>
  </tr>
- <tr style='height:39.65pt'>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;height:39.65pt'>
+ <tr>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
   <p>Blockchain vs Data Block Matrix in GPDR compliance</p>
   </td>
  </tr>
@@ -160,13 +159,12 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   <p>IPv6 Service continuity</p>
   </td>
  </tr>
- <tr style='height:32.25pt'>
+ <tr>
   <td width=174 rowspan=6 style='width:130.15pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;
-  height:32.25pt'>
+  padding:.75pt .75pt .75pt .75pt'>
   <p><b>SRv6 based service function chain</b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;height:32.25pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
   <p>Smart services for government enterprise clients usage scenario</p>
   </td>
  </tr>
@@ -560,8 +558,8 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   <p>Declarative Testing</p>
   </td>
  </tr>
- <tr style='height:1.0pt'>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;height:1.0pt'>
+ <tr>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
   <p>Testing as a Service</p>
   </td>
  </tr>
