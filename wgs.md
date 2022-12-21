@@ -208,8 +208,8 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:20'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Smart
-  services for home terminals usage scenario<o:p></o:p></span></p>
+  <p class=MsoNormal>Smart
+  services for home terminals usage scenario</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:21'>
@@ -233,21 +233,19 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:24'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>SFC
-  scheduling of multi-service in multi-Cloud (Hybrid <span class=GramE>mode).....</span><o:p></o:p></span></p>
+  <p class=MsoNormal>SFC scheduling of multi-service in multi-Cloud (Hybrid mode).....</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:25'>
   <td width=174 rowspan=5 style='width:130.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6-based
-  Blockchain</span></b><b><span lang=FR style='font-size:12.0pt;line-height:
-  107%'><o:p></o:p></span></b></p>
+  <p class=MsoNormal><b>IPv6-based
+  Blockchain</b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6-based
-  Blockchain: Overview and Requirements<o:p></o:p></span></p>
+  <p class=MsoNormal>IPv6-based
+  Blockchain: Overview and Requirements</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:26'>
@@ -272,8 +270,8 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:29'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Scenario
-  2 - Pay-as-you-go journeys.<o:p></o:p></span></p>
+  <p class=MsoNormal>Scenario
+  2 - Pay-as-you-go journeys.</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:30'>
@@ -292,8 +290,7 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:31'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Implementing
-  Modern CGA for IPv6<o:p></o:p></span></p>
+  <p class=MsoNormal>Implementing Modern CGA for IPv6</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:32'>
@@ -318,21 +315,19 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:34'>
   <td width=174 rowspan=6 style='width:130.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6
-  for Universities</span></b><b><span lang=FR style='font-size:12.0pt;
-  line-height:107%;color:red'><o:p></o:p></span></b></p>
+  <p class=MsoNormal><b>IPv6 for Universities</b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Motivation
-  to deploy IPv6 in Academia and LAN Design implications<o:p></o:p></span></p>
+  <p class=MsoNormal>Motivation
+  to deploy IPv6 in Academia and LAN Design implications</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:35'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6
-  Design change: Replace Broadcast with multicast<o:p></o:p></span></p>
+  <p class=MsoNormal>IPv6
+  Design change: Replace Broadcast with multicast</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:36'>
@@ -363,8 +358,7 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:40'>
   <td width=174 rowspan=4 style='width:130.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'>IP
-  Transport with SRv6<o:p></o:p></span></b></p>
+  <p class=MsoNormal>IP Transport with SRv6</b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
@@ -380,22 +374,19 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:42'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Automating
-  SRv6 Configuration through SDN<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Automating SRv6 Configuration through SDN<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:43'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>E2E SRv6
-  in Network and Cloud<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>E2E SRv6 in Network and Cloud<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:44'>
   <td rowspan=24 style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
   padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'>Guide</span><span
-  lang=EN-GB> </span><span lang=FR><o:p></o:p></span></b></p>
+  <p class=MsoNormal><b>Guide</b></p>
   </td>
   <td width=174 rowspan=10 style='width:130.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
@@ -404,15 +395,13 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>General
-  requirements to network-Cloud convergence<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>General requirements to network-Cloud convergence<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:45'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>European
-  digital sovereignty with GAIA-X and <span class=GramE>IDSA .</span><o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>European digital sovereignty with GAIA-X and <span class=GramE>IDSA .</span><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:46'>
@@ -445,36 +434,31 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:50'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Telecom
-  Cloud network usage scenario <o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Telecom Cloud network usage scenario <o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:51'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6 for
-  network-Cloud convergence (Benefit analysis)<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6 for network-Cloud convergence (Benefit analysis)<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:52'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Hyper-converged
-  Data Centre network benefits analysis with unified IPv6 architecture<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Hyper-converged Data Centre network benefits analysis with unified IPv6 architecture<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:53'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Network
-  and Cloud management benefits<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Network and Cloud management benefits<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:54'>
   <td width=174 rowspan=7 style='width:130.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><b><span style='mso-ansi-language:EN-US'>Industrial
-  Internet and Enterprise </span><span lang=FR><o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span style='mso-ansi-language:EN-US'>Industrial Internet and Enterprise </span><span lang=FR><o:p></o:p></span></b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
@@ -498,8 +482,7 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:55'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Deploying
-  IP networks in the factory<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Deploying IP networks in the factory<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:56'>
@@ -513,23 +496,20 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:57'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Deterministic
-  networking for control loop and motion control<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Deterministic networking for control loop and motion control<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:58'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Security
-  vs. Safety (e.g. Recursive micro segmentation, ISA 99, Purdue Model vs.
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Security vs. Safety (e.g. Recursive micro segmentation, ISA 99, Purdue Model vs.
   firewalling/VPN)<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:59'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Towards
-  IPv6-only Enterprise / Factory<o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Towards IPv6-only Enterprise / Factory<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:60'>
@@ -541,8 +521,7 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:61'>
   <td width=174 rowspan=7 style='width:130.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'>5G
-  Transport over IPv6 and SRv6<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b><span lang=EN-GB style='mso-ansi-language:EN-GB'>5G Transport over IPv6 and SRv6<o:p></o:p></span></b></p>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
@@ -552,8 +531,7 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:62'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6/SRv6
-  Infrastructure for 5G Data Transportation<span class=GramE> ..</span><o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>IPv6/SRv6 Infrastructure for 5G Data Transportation<span class=GramE> ..</span><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:63'>
@@ -565,8 +543,7 @@ As described in the IPE Council PoC Framework, a PoC Team proposal shall address
  <tr style='mso-yfti-irow:64'>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Requirements
-  to the 5G transport <span class=GramE>network .</span><o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>Requirements to the 5G transport <span class=GramE>network .</span><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:65'>
