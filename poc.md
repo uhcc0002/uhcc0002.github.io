@@ -8,20 +8,19 @@ background: './img/bg-contact.jpg'
 <table border=1 cellspacing=3 cellpadding=0
  style='border:solid windowtext 1.0pt'>
  <tr>
-  <td colspan=3 style='border:solid windowtext 1.0pt;
-  background:#D9E2F3;padding:0px'>
-  <p align=center style='text-align:center'><b>IPv6 Forum’s IPE Council PoC Topics candidates list</b></p>
+  <td colspan=3 style='border:solid windowtext 1.0pt;background:#D9E2F3'>
+  <center><b>IPv6 Forum’s IPE Council PoC Topics candidates list</b></center>
   </td>
  </tr>
  <tr>
-  <td style='border:solid windowtext 1.0pt;background:#DEEAF6;heigth:10pt'>
-  <center><b>Level 1 </b></center>
+  <td style='border:solid windowtext 1.0pt;background:#DEEAF6'>
+  <center><b>Level 1</b></center>
   </td>
-  <td width=174 style='width:130.15pt;border:solid windowtext 1.0pt;background:#DEEAF6;heigth:10pt'>
-  <center><b>Level 2 </b></center>
+  <td width=174 style='width:130.15pt;border:solid windowtext 1.0pt;background:#DEEAF6'>
+  <center><b>Level 2</b></center>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;background:#DEEAF6;heigth:10pt'>
-  <center><b>Level 3 </b></center>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;background:#DEEAF6'>
+  <center><b>Level 3</b></center>
   </td>
  </tr>
  <tr>
