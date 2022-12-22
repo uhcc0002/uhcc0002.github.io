@@ -122,6 +122,7 @@ background: './img/bg-contact.jpg'
 |	Wiconnect Network Private Ltd	|	www.wiconnectnetwork.com	|
 |	Xiamen University	|	www.xmu.edu.cn	|
 
+
 <center>
-<h6><b>Remark: the above lists are the original ETSI ISG IPE members and participants lists.</b></h6> 
+<h6><b>Remark: the above lists are the original members and participants of ETSI ISG IPE .</b></h6> 
 </center>
