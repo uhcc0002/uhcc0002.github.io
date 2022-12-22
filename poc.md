@@ -5,8 +5,7 @@ description: Potential PoC Topics candidates
 background: './img/bg-contact.jpg'
 ---
 
-<table border=1 cellspacing=3 cellpadding=0
- style='border:solid windowtext 1.0pt;padding:10px'>
+<table border=1 cellspacing=3 cellpadding=0 style='border:solid windowtext 1.0pt;padding:10px'>
  <tr>
   <td colspan=3 style='border:solid windowtext 1.0pt;background:#D9E2F3'>
   <center><b>IPv6 Forum’s IPE Council PoC Topics candidates list</b></center>
