@@ -24,28 +24,23 @@ background: './img/bg-contact.jpg'
  </tr>
  <tr>
   <td rowspan=42 style='border:solid windowtext 1.0pt'>
-  <b>Use Cases and</b>
-  <b>Applications</b>
+  <b>Use Cases and Applications</b>
   </td>
   <td width=174 rowspan=7 style='width:130.15pt;border:solid windowtext 1.0pt'>
-  <b>IPv6 Only use cases and transition </b>
+  <b>IPv6 Only use cases and transition</b>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
-  Business
-  and Technical Case for IPv6 Only
-  </td>
- </tr>
- <tr>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
-  Size: Enterprise SOHO, Enterprise SMB,
-  Enterprise Large
+  Business and Technical Case for IPv6 Only
   </td>
  </tr>
  <tr>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
-  Function:
-  Governments, Service Provider, Carrier, Managed Service Provider, Cloud /
-  Datacentre
+  Size: Enterprise SOHO, Enterprise SMB, Enterprise Large
+  </td>
+ </tr>
+ <tr>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
+  Function: Governments, Service Provider, Carrier, Managed Service Provider, Cloud/Datacentre
   </td>
  </tr>
  <tr>
@@ -55,14 +50,12 @@ background: './img/bg-contact.jpg'
  </tr>
  <tr>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
-  Transition
-  to IPv6 Only – System, Address & Network Designs,
+  Transition to IPv6 Only – System, Address & Network Designs,
   </td>
  </tr>
  <tr>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
-  Platforms, Cybersecurity
-  &amp; Applications
+  Platforms, Cybersecurity &amp; Applications
   </td>
  </tr>
  <tr>
@@ -178,8 +171,7 @@ background: './img/bg-contact.jpg'
  </tr>
  <tr>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
-  Scenario 1 - Prepaid
-  journeys
+  Scenario 1 - Prepaid journeys
   </td>
  </tr>
  <tr>
@@ -328,8 +320,7 @@ background: './img/bg-contact.jpg'
   <b>Industrial Internet and Enterprise</b>
   </td>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
-  <p style='text-align:justify;text-justify:inter-ideograph'>Automotive (in vehicle, V2V, V2I)
-  <p style='text-align:justify;text-justify:inter-ideograph'>SmartGrid Applications
+  Automotive (in vehicle, V2V, V2I), SmartGrid Applications
   </td>
  </tr>
  <tr>
@@ -349,8 +340,7 @@ background: './img/bg-contact.jpg'
  </tr>
  <tr>
   <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
-  Security vs. Safety (e.g. Recursive micro segmentation, ISA 99, Purdue Model vs.
-  firewalling/VPN)
+  Security vs. Safety (e.g. Recursive micro segmentation, ISA 99, Purdue Model vs. firewalling/VPN)
   </td>
  </tr>
  <tr>
