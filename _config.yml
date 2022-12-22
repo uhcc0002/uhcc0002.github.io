@@ -2,7 +2,7 @@ title:              IPv6 Enhanced Council (IPv6Enhanced)
 email:              latif@ladid.lu
 description:        Intro
 author:             IPv6 Forum
-baseurl:            "/ipe/"
+baseurl:            "/ipe"
 url:                "https://uhcc0002.github.io"
 
 # Social Profiles
