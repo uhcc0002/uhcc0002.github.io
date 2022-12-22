@@ -5,7 +5,7 @@ description: Potential PoC Topics candidates
 background: './img/bg-contact.jpg'
 ---
 
-<table border=1 cellspacing=3 cellpadding=0
+<table border=1 cellspacing=3
  style='border:solid windowtext 1.0pt'>
  <tr>
   <td colspan=3 style='border:solid windowtext 1.0pt;
