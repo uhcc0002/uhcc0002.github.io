@@ -14,13 +14,13 @@ background: './img/bg-contact.jpg'
   </td>
  </tr>
  <tr>
-  <td style='border:solid windowtext 1.0pt;background:#DEEAF6'>
+  <td style='border:solid windowtext 1.0pt;background:#DEEAF6;heigth:10pt'>
   <p align=center style='text-align:center'><b>Level 1 </b></p>
   </td>
-  <td width=174 style='width:130.15pt;border:solid windowtext 1.0pt;background:#DEEAF6;padding:1px'>
+  <td width=174 style='width:130.15pt;border:solid windowtext 1.0pt;background:#DEEAF6;heigth:10pt'>
   <p align=center style='text-align:center'><b>Level 2 </b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;background:#DEEAF6;padding:1px'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;background:#DEEAF6;heigth:10pt'>
   <p align=center style='text-align:center'><b>Level 3 </b></p>
   </td>
  </tr>
