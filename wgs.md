@@ -29,9 +29,9 @@ As soon as experimental results relevant for a given IPE Council PoC Topic are a
 
 As described in the IPE Council PoC Framework, a PoC Team proposal shall address at least one goal relevant to IPv6 Forum's IPE Council i.e. related with an IPE Council Use Cases, an IPE Council Requirements or the suitability of an IPE Council System Architecture aspect. The output of the PoC should provide feedback to the IPv6 Forum's IPE Council that should support the improvement of the output of the existing IPE Council WIs or the creation of new WIs to address identified gaps or new topics deemed of high interest to the Industry. Alignment with existing activities is required. See table below. 
 
-<center><b>
+<center><i>
 <a href="./poc.html">Table of PoC Topics candidates</a>
-</b></center>
+</i></center>
 
 **Addressing a PoC Topics in a PoC Project**
 

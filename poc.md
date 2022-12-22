@@ -1,11 +1,9 @@
 ---
 layout: page
-title: IPv6 Forum IPE Council Proof of Concept (PoC)
-description: Our Areas of Interest
+title: Proof of Concept (PoC)
+description: Potential PoC Topics candidates
 background: './img/bg-contact.jpg'
 ---
-
-**IPv6 Forum's IPE Council potential PoC Topics candidates**
 
 <table border=1 cellspacing=3 cellpadding=0
  style='border:solid windowtext 1.0pt'>
@@ -16,14 +14,13 @@ background: './img/bg-contact.jpg'
   </td>
  </tr>
  <tr>
-  <td style='border:solid windowtext 1.0pt;
-  background:#DEEAF6'>
+  <td style='border:solid windowtext 1.0pt;background:#DEEAF6;padding:1px'>
   <p align=center style='text-align:center'><b>Level 1 </b></p>
   </td>
-  <td width=174 style='width:130.15pt;border:solid windowtext 1.0pt'>
+  <td width=174 style='width:130.15pt;border:solid windowtext 1.0pt;background:#DEEAF6;padding:1px'>
   <p align=center style='text-align:center'><b>Level 2 </b></p>
   </td>
-  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt'>
+  <td width=327 style='width:245.55pt;border:solid windowtext 1.0pt;background:#DEEAF6;padding:1px'>
   <p align=center style='text-align:center'><b>Level 3 </b></p>
   </td>
  </tr>
