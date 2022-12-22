@@ -5,16 +5,16 @@ description: Potential PoC Topics candidates
 background: './img/bg-contact.jpg'
 ---
 
-<table border=1 cellspacing=3
+<table border=1 cellspacing=3 cellpadding=0
  style='border:solid windowtext 1.0pt'>
  <tr>
   <td colspan=3 style='border:solid windowtext 1.0pt;
-  background:#D9E2F3'>
+  background:#D9E2F3;padding:0px'>
   <p align=center style='text-align:center'><b>IPv6 Forum’s IPE Council PoC Topics candidates list</b></p>
   </td>
  </tr>
  <tr>
-  <td style='border:solid windowtext 1.0pt;background:#DEEAF6;padding:1px'>
+  <td style='border:solid windowtext 1.0pt;background:#DEEAF6'>
   <p align=center style='text-align:center'><b>Level 1 </b></p>
   </td>
   <td width=174 style='width:130.15pt;border:solid windowtext 1.0pt;background:#DEEAF6;padding:1px'>
