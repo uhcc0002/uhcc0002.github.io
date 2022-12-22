@@ -121,3 +121,7 @@ background: './img/bg-contact.jpg'
 |	VNNIC	|		|
 |	Wiconnect Network Private Ltd	|	www.wiconnectnetwork.com	|
 |	Xiamen University	|	www.xmu.edu.cn	|
+
+<center>
+<h6><b>Remark: the above lists are the original ETSI ISG IPE members and participants lists.</b></h6> 
+</center>
