@@ -1,6 +1,6 @@
 ---
 layout: home
-background: './img/bg-index.jpg'
+background: '/img/bg-index.jpg'
 ---
 
 Nowadays all the new technology domains like 5G connectivity, Internet of Things (IoT), Cloud Computing, Artificial Intelligence (AI) are accelerating digitalization and many things that were previously not connected are getting connected. As more and more devices, vehicles, sensors and home appliances go online, enabling IP on everything becomes a vision and industry trend.
@@ -17,4 +17,4 @@ The progress of IPv6 can be showed looking at the percentage of networks (Autono
   <img style="max-width:100%" src="./img/IPE_graphic.png">
 </p>
 
-IPv6 Forum’s IPE Council opens the door to new opportunities for industry players by applying IPv6 technology to various scenarios and end-to-end solutions, in order to enable a new era of IPv6-based services and networks. IPE Council will close the loop among the IP Industry players, each of which will benefit from this alignment: SDOs (IETF) will concentrate effort in delivering missing specifications, Manufacturer will implement functionalities of value on the market and Operators/Vertical Industries will be able to properly underpin Digital Transformation in a simpler way with straight forward and cost effective technologies.
+IPv6 Enhanced Council opens the door to new opportunities for industry players by applying IPv6 technology to various scenarios and end-to-end solutions, in order to enable a new era of IPv6-based services and networks. IPv6 Enhanced Council will close the loop among the IP Industry players, each of which will benefit from this alignment: SDOs (IETF) will concentrate effort in delivering missing specifications, Manufacturer will implement functionalities of value on the market and Operators/Vertical Industries will be able to properly underpin Digital Transformation in a simpler way with straight forward and cost effective technologies.

@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 description: We will publish IPE publications & reports here
-background: './img/bg-contact.jpg'
+background: '/img/bg-contact.jpg'
 ---
 
 [ETSI GR IPE 006 V1.1.1 (2022-11)](https://www.etsi.org/deliver/etsi_gr/IPE/001_099/006/01.01.01_60/gr_IPE006v010101p.pdf)
@@ -45,3 +45,9 @@ IPv6 Enhanced Innovation (IPE); IPv6 based Data Centers, Network and Cloud Integ
 [ETSI GR IPE 001 V1.1.1 (2022-08)](https://www.etsi.org/deliver/etsi_gr/IPE/001_099/001/01.01.01_60/gr_IPE001v010101p.pdf)
 
 IPv6 Enhanced Innovation (IPE); Gap Analysis
+
+---
+
+<center>
+<h6><b>Remark: the above list contains the original reports published in ETSI ISG IPE .</b></h6> 
+</center>

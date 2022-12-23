@@ -2,7 +2,7 @@
 layout: page
 title: Participants
 description: Organisations that have joined IPE
-background: './img/bg-contact.jpg'
+background: '/img/bg-contact.jpg'
 ---
 
 |Members                                 |URL                                                          |

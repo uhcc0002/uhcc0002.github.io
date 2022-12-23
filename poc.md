@@ -2,13 +2,13 @@
 layout: page
 title: Proof of Concept (PoC)
 description: Potential PoC Topics candidates
-background: './img/bg-contact.jpg'
+background: '/img/bg-contact.jpg'
 ---
 
 <table border=1 cellspacing=3 cellpadding=0 style='padding:5px;border:solid windowtext 1.0pt'>
  <tr style='border:solid windowtext 1.0pt'>
   <td colspan=3 style='border:solid windowtext 1.0pt;background:#D9E2F3;padding:30px'>
-  <center><b>IPv6 Forum’s IPE Council PoC Topics candidates list</b></center>
+  <center><b>IPv6 Enhanced Council PoC Topics candidates list</b></center>
   </td>
  </tr>
  <tr style='border:solid windowtext 1.0pt'>

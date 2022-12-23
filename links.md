@@ -2,7 +2,7 @@
 layout: page
 title: Links
 description: Other resources
-background: './img/bg-contact.jpg'
+background: '/img/bg-contact.jpg'
 ---
 
 <b>List of interesting resources:</b>
