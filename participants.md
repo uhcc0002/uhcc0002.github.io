@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Management Team and Members
+title: Council Management Team & Members
 description: 
 background: '/img/bg-contact.jpg'
 ---
@@ -8,6 +8,9 @@ background: '/img/bg-contact.jpg'
 <table><center>
 <tr><td width=350><b>Management Team</b></td></tr>
 <tr><td width=200>Ladid Latif</td><td width=200>Chairman</td><td width=350>SnT - University of Luxembourg</td></tr>
+<tr><td width=200>Liu Will (Shucheng)</td><td width=200>Vice Chairman</td><td width=350>Huawei Tech.(UK) Co.. Ltd</td></tr>
+<tr><td width=200>Wetterwald Patrick</td><td width=200>Vice Chairman</td><td width=350>Cisco Systems France</td></tr>
+<tr><td width=200>Xie Chongfeng</td><td width=200>Vice Chairman</td><td width=350>China Telecommunications</td></tr>
 </center></table>
 
 ---
@@ -124,9 +127,3 @@ background: '/img/bg-contact.jpg'
 <tr><td width=350>Wiconnect Network Private Ltd</td><td width=350>www.wiconnectnetwork.com	</td></tr>
 <tr><td width=350>Xiamen University</td><td width=350>www.xmu.edu.cn	</td></tr>
 </center></table>
-
----
-
-<center>
-<h6><b>Remark: the above lists are the original members and participants of ETSI ISG IPE .</b></h6> 
-</center>
