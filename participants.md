@@ -1,8 +1,15 @@
 ---
 layout: page
-title: Participants
-description: Organisations that have joined IPE
+title: Management Team and Members
+description: 
 background: '/img/bg-contact.jpg'
+---
+
+<table><center>
+<tr><td width=350><b>Management Team</b></td></tr>
+<tr><td width=200>Ladid Latif</td><td width=200>Chairman</td><td width=350>SnT - University of Luxembourg</td></tr>
+</center></table>
+
 ---
 
 <table><center>
@@ -35,12 +42,6 @@ background: '/img/bg-contact.jpg'
 <tr><td width=350>UTokyo</td><td width=350>www.u-tokyo.ac.jp/en/</td></tr>
 <tr><td width=350>Verizon UK Ltd</td><td width=350>www.verizonwireless.com/</td></tr>
 <tr><td width=350>ZTE Corporation</td><td width=350>www.zte.com.cn</td></tr>
-</center></table>
-
----
-
-<table><center>
-<tr><td width=350><b>Participants</b></td><td width=350><b>URL</b></td></tr>
 <tr><td width=350>ABBOTT</td><td width=350>www.abbott.com	</td></tr>
 <tr><td width=350>Afrinic</td><td width=350>www.afrinic.net	</td></tr>
 <tr><td width=350>airLAN S.r.l.</td><td width=350>www.airlan.it	</td></tr>
