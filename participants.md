@@ -122,7 +122,7 @@ background: '/img/bg-contact.jpg'
 <tr><td width=350>VeeSIX</td><td width=350>www.veesix.net</td></tr>
 <tr><td width=350>Verizon Business Group</td><td width=350>www.verizon.com</td></tr>
 <tr><td width=350>Verizon UK Ltd</td><td width=350>www.verizonwireless.com</td></tr>
-<tr><td width=350>VNNIC</td><td width=350></td></tr>
+<tr><td width=350>VNNIC</td><td width=350>www.vnnic.vn</td></tr>
 <tr><td width=350>Wiconnect Network Private Ltd</td><td width=350>www.wiconnectnetwork.com</td></tr>
 <tr><td width=350>Xiamen University</td><td width=350>www.xmu.edu.cn</td></tr>
 <tr><td width=350>ZTE Corporation</td><td width=350>www.zte.com.cn</td></tr>
