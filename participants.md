@@ -16,6 +16,7 @@ background: '/img/bg-contact.jpg'
 ---
 
 <table><center>
+<tr><td width=350><b>Members</b></td><td width=350><b>URL</b></td></tr>
 <tr><td width=350>A.S.I.</td><td width=350>www.austrian-standards.at</td></tr>
 <tr><td width=350>ABBOTT</td><td width=350>www.abbott.com</td></tr>
 <tr><td width=350>Afrinic</td><td width=350>www.afrinic.net</td></tr>
