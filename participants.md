@@ -68,6 +68,7 @@ background: '/img/bg-contact.jpg'
 <tr><td width=350>Huawei Tech.(UK) Co.. Ltd</td><td width=350>www.huawei.com</td></tr>
 <tr><td width=350>Ignatia Sensors Ltd</td><td width=350>www.ignatiasensors.co.uk</td></tr>
 <tr><td width=350>Inside Products</td><td width=350>www.insidethestack.com</td></tr>
+<tr><td width=350>Instituto Federal de Telecomunicaciones - IFT</td><td width=350>www.ift.org.mx</td></tr>
 <tr><td width=350>Internet Associates LLC</td><td width=350>www.internetassociatesllc.com</td></tr>
 <tr><td width=350>IPv6 Council Peru</td><td width=350>www.facebook.com/IPv6-Council-Perú-1580251488854264</td></tr>
 <tr><td width=350>IPv6 Forum</td><td width=350>www.ipv6forum.com</td></tr>
